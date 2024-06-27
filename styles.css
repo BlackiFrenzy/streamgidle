@@ -164,7 +164,7 @@ section h2 {
 
 .btn {
     display: inline-block;
-    background: #ffffff;
+    background: #080808;
     color: #fff;
     padding: 0.75rem 1.5rem;
     text-decoration: none;
@@ -183,7 +183,7 @@ section h2 {
 }
 
 .service {
-    background: #f9f9f9;
+    background: #9f8383;
     padding: 2rem;
     text-align: center;
     border-radius: 8px;
@@ -197,7 +197,7 @@ section h2 {
 
 .service i {
     font-size: 3rem;
-    color: #f5f1ed;
+    color: #f3ebeb;
     margin-bottom: 1rem;
 }
 
